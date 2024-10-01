@@ -17,8 +17,7 @@
 
 This is the official implementation of the following paper:
 
-> [Unifying Unsupervised Graph-Level Out-of-Distribution Detection and Anomaly Detection: A Benchmark](https://arxiv.org/abs/2406.15523)
-> 
+
 
 UB-GOLD provides a fair and comprehensive platform to evaluate 18 existing unsupervised GLAD and GLOD works on 4 types of datasets and facilitates future GLAD/GLOD research.
 
@@ -176,16 +175,7 @@ This part lists all the methods we include in this codebase. We support 16 popul
 | Graph neural network-based GLOD  | [GOOD-D](https://arxiv.org/pdf/2211.04208.pdf) , [GraphDE](https://proceedings.neurips.cc/paper_files/paper/2022/file/c34262c35aa5f8c1a091822cbb2020c2-Paper-Conference.pdf)  |
 
 
-## Citation
-If you find our repository useful for your research, please consider citing our paper:
-```
-@article{wang2024unifying,
-  title={Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark},
-  author={Wang, Yili and Liu, Yixin and Shen, Xu and Li, Chenyu and Ding, Kaize and Miao, Rui and Wang, Ying and Pan, Shirui and Wang, Xin},
-  journal={arXiv preprint arXiv:2406.15523},
-  year={2024}
-}
-```
+
 ## Reference
 UB-GOLD has completed the approaches related to unsupervised Graph detection for Tables 1 and 2. As for some special scenarios in Tables 3-5, we will gradually adapt them to this benchmark.
 
