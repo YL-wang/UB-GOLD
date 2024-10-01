@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/UB-GOLD/UB-GOLD/blob/main/Image/Show.jpg" alt="UB-GOLD"  width="500px"/>
+  <img src="https://raw.githubusercontent.com/UB-GOLD/UB-GOLD/main/Image/Show.jpg" alt="UB-GOLD"  width="500px"/>
 </div>
 
 ------
@@ -99,7 +99,7 @@ The data used in UB-GOLD should be downloaded in './data', and they can be downl
    - [GOODZINC](https://drive.google.com/file/d/1CHR0I1JcNoBqrqFicAZVKU3213hbsEPZ/view)
   
 <div align="left">
-  <img src="https://github.com/UB-GOLD/UB-GOLD/blob/main/Image/Dataset.jpg" width="600px"/>
+  <img src="https://raw.githubusercontent.com/UB-GOLD/UB-GOLD/main/Image/Dataset.jpg" width="600px"/>
 </div>
      
 ## Quick Start
@@ -195,6 +195,8 @@ UB-GOLD has completed the approaches related to unsupervised Graph detection for
 |--------|---------|:----------:|:--------------:|
 | 7      | [Good-d: On unsupervised graph out-of-distribution detection ](https://arxiv.org/pdf/2211.04208.pdf)|  GLOD   |   WSDM 2023    |
 | 8     |[ Graphde: A generative framework for debiased learning and out-of-distribution detection on graphs](https://proceedings.neurips.cc/paper_files/paper/2022/file/c34262c35aa5f8c1a091822cbb2020c2-Paper-Conference.pdf) |  GLOD    |    NeurIPS 2022    |
+| 9   | [A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability](http://shichuan.org/doc/150.pdf) |  GLOD  |    KDD 2023   |
+| 10    | [GOODAT: Towards Test-time Graph Out-of-Distribution Detection](https://arxiv.org/pdf/2401.06176v1.pdf) |  GLOD  |    AAAI 2024   |
 
 ------
 
@@ -207,16 +209,11 @@ UB-GOLD has completed the approaches related to unsupervised Graph detection for
 | 3      |[Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection](https://arxiv.org/pdf/2310.02861.pdf)| GLAD   |   ICLR 2024    |
 | 4      | [SGOOD: Substructure-enhanced Graph-Level Out-of-Distribution Detection ](https://arxiv.org/pdf/2310.10237.pdf)|  GLOD  |    Arxiv 2023    |
 
-### Table 4: Other Approaches (Post-hoc Setting)
-| **ID** | **Paper** | **Category** | **Conference** |
-|--------|---------|:----------:|:--------------:|
-| 5   | [A Data-centric Framework to Endow Graph Neural Networks with Out-Of-Distribution Detection Ability](http://shichuan.org/doc/150.pdf) |  GLOD  |    KDD 2023   |
-| 6    | [GOODAT: Towards Test-time Graph Out-of-Distribution Detection](https://arxiv.org/pdf/2401.06176v1.pdf) |  GLOD  |    AAAI 2024   |
 
-### Table 5: Other Approaches (Scenario Limitations (limited to molecular graphs))
+### Table 4: Other Approaches (Scenario Limitations (limited to molecular graphs))
 | **ID** | **Paper** | **Category** | **Conference** |
 |--------|---------|:----------:|:--------------:|
-| 7    |[Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models](https://arxiv.org/pdf/2404.15625) |  GLOD   |    KDD 2024    |
+| 5   |[Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models](https://arxiv.org/pdf/2404.15625) |  GLOD   |    KDD 2024    |
 
 
 
