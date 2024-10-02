@@ -177,7 +177,7 @@ This part lists all the methods we include in this codebase. We support 16 popul
 
 
 ## Reference
-UB-GOLD has completed the approaches related to unsupervised Graph detection for Tables 1 and 2. As for some special scenarios in Tables 3-5, we will gradually adapt them to this benchmark.
+UB-GOLD has completed the approaches related to unsupervised Graph detection for Tables 1 and 2. As for some special scenarios in Tables 3-4, we will gradually adapt them to this benchmark.
 
 ### Table 1: Unsupervised GLAD 
 
