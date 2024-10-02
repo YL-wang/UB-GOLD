@@ -40,7 +40,6 @@ dgl-cu110==0.6.1
 dgllife==0.2.9
 dive-into-graphs==1.1.0
 # Editable install with no version control (drugood==0.0.1)
--e /home/wangyili/anaconda3/envs/drugood/lib/python3.8/site-packages/drugood-0.0.1-py3.8.egg
 easydict==1.9
 entrypoints @ file:///tmp/build/80754af9/entrypoints_1649926445639/work
 et-xmlfile==1.1.0
@@ -63,7 +62,7 @@ google-pasta==0.2.0
 googledrivedownloader==0.4
 grakel==0.1.8
 # Editable install with no version control (graph-ood==1.0.1)
--e /home/wangyili/shenxu/LECI-LECI-1.0.0
+
 greenlet==1.0.0
 grpcio==1.44.0
 h5py==2.10.0
@@ -221,8 +220,6 @@ toml==0.10.2
 tomli==2.0.1
 torch==2.0.1+cu118
 torch-geometric==2.4.0
-torch-scatter @ file:///home/wangyili/shenxu/torch_scatter-2.1.1%2Bpt20cu118-cp38-cp38-linux_x86_64.whl
-torch-sparse @ file:///home/wangyili/shenxu/torch_sparse-0.6.17%2Bpt20cu118-cp38-cp38-linux_x86_64.whl
 torchaudio==0.7.0a0+a853dff
 torchsummary==1.5.1
 torchvision==0.8.2
